@@ -13,3 +13,4 @@ We are using python built in random number generator. Output's are between [0,1)
 
 - At first let's print 10 random number.
 - Then make it into function.
+- Write a function that sorts inputs into increasing order. and return it.
